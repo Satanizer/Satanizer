@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ihsan</h1>
-<h3 align="center">Web Developer, UI/UX Designer</h3>
+<h3 align="center">Software Developer</h3>
 
 - 🌱 I’m currently learning **JavaScript, Python, AWS Cloud**
 
